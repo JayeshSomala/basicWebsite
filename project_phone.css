@@ -1,0 +1,28 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 5px;
+    margin: 0px 4px;
+    padding-bottom: 10px;
+}
+/* home section */
+#home{
+    padding: 0px 50px;
+    width: 100%;
+}
+/* services section */
+#services{
+    flex-direction: column;
+}
+
+/* client section */
+#clients{
+    flex-wrap: wrap;
+    position: relative;
+}
+/* contact us section */
+
+/* footer */
